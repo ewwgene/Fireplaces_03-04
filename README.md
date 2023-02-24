@@ -1,7 +1,7 @@
 
 # [ewwgene.github.io](https://ewwgene.github.io/)
 ## Fireplaces_03-04. _WINTER-2016.04._
-![[Fireplaces_03-04](/100.jpg)](https://ewwgene.github.io/Fireplaces_03-04/Carousel)<a href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#105"><img src="https://ewwgene.github.io/Fireplaces_03-04/105.jpg" height="66"></a> <a href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#111"><img src="https://ewwgene.github.io/Fireplaces_03-04/111.jpg" height="66"></a> <a href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#112"><img src="https://ewwgene.github.io/Fireplaces_03-04/112.jpg" height="66"></a> <a href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#113"><img src="https://ewwgene.github.io/Fireplaces_03-04/113.jpg" height="66"></a> 
+[![Fireplaces_03-04](/100.jpg)](https://ewwgene.github.io/Fireplaces_03-04/Carousel)<a href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#105"><img src="https://ewwgene.github.io/Fireplaces_03-04/105.jpg" height="66"></a> <a href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#111"><img src="https://ewwgene.github.io/Fireplaces_03-04/111.jpg" height="66"></a> <a href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#112"><img src="https://ewwgene.github.io/Fireplaces_03-04/112.jpg" height="66"></a> <a href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#113"><img src="https://ewwgene.github.io/Fireplaces_03-04/113.jpg" height="66"></a> 
 <br>
 **Overview**
  проверка [SLIT-SCAN_PHOTOGRAPHY](https://en.wikipedia.org/wiki/Slit-scan_photography)
