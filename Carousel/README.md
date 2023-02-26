@@ -1,6 +1,6 @@
 
-# [ewwgene.github.io](https://ewwgene.github.io/)
-### [Fireplaces_03-04. — _DESIGN SERIES._](https://ewwgene.github.io/Fireplaces_03-04)
+# [ewwgene.github.io /](https://ewwgene.github.io/) [Fireplaces_03-04 /](https://ewwgene.github.io/Fireplaces_03-04)
+
 <a id="100"></a> ![100.jpg](https://ewwgene.github.io/Fireplaces_03-04/100.jpg)
 <a id="105"></a> ![105.jpg](https://ewwgene.github.io/Fireplaces_03-04/105.jpg)
 <a id="111"></a> ![111.jpg](https://ewwgene.github.io/Fireplaces_03-04/111.jpg)
@@ -16,3 +16,5 @@
 <a id="300"></a> ![300.jpg](https://ewwgene.github.io/Fireplaces_03-04/300.jpg)
 <a id="316"></a> ![316.jpg](https://ewwgene.github.io/Fireplaces_03-04/316.jpg)
 
+
+### [ABOUT/](https://ewwgene.github.io/) 
