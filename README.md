@@ -1,7 +1,7 @@
 
 # [ewwgene.github.io /](https://ewwgene.github.io/) [_DESIGN_ /](https://ewwgene.github.io/DESIGN) Fireplaces_03-04
 
-[![Fireplaces_03-04](/100.jpg)](https://ewwgene.github.io/Fireplaces_03-04/Carousel)<a id="105" href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#105"><img src="https://ewwgene.github.io/Fireplaces_03-04/105.jpg" height="66"></a> <a id="111" href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#111"><img src="https://ewwgene.github.io/Fireplaces_03-04/111.jpg" height="66"></a> <a id="112" href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#112"><img src="https://ewwgene.github.io/Fireplaces_03-04/112.jpg" height="66"></a> <a id="113" href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#113"><img src="https://ewwgene.github.io/Fireplaces_03-04/113.jpg" height="66"></a> <a id="text">&#160;</a>
+[![Fireplaces_03-04](/100.jpg)](https://ewwgene.github.io/Fireplaces_03-04/Carousel)<br> <a id="105" href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#105"><img src="https://ewwgene.github.io/Fireplaces_03-04/105.jpg" height="66"></a> <a id="111" href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#111"><img src="https://ewwgene.github.io/Fireplaces_03-04/111.jpg" height="66"></a> <a id="112" href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#112"><img src="https://ewwgene.github.io/Fireplaces_03-04/112.jpg" height="66"></a> <a id="113" href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#113"><img src="https://ewwgene.github.io/Fireplaces_03-04/113.jpg" height="66"></a> <a id="text">&#160;</a>
 
 _`SOLID_PINE_WOOD`_ _`PLASTER`_ 
 
@@ -17,5 +17,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a id="300" href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#300"><img src="https://ewwgene.github.io/Fireplaces_03-04/300.jpg" height="66"></a> <a id="316" href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#316"><img src="https://ewwgene.github.io/Fireplaces_03-04/316.jpg" height="66"></a> 
 
 _`DESIGN SERIES`_ _`SCULPTURE`_ 
+
+<br> 
+
 ### [ABOUT /](https://ewwgene.github.io/ABOUT)
 ### [MAIL_TO:](mailto:r0cam@me.com)
