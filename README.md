@@ -1,7 +1,7 @@
 ﻿
 # [ewwgene.github.io /](https://ewwgene.github.io/) [_DESIGN_ /](https://ewwgene.github.io/DESIGN) Fireplaces_03-04
 
-[![Fireplaces_03-04](/100.jpg)](https://ewwgene.github.io/Fireplaces_03-04/Carousel)<br> <a id="105" href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#105"><img src="https://ewwgene.github.io/Fireplaces_03-04/105.jpg" height="66"></a> <a id="111" href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#111"><img src="https://ewwgene.github.io/Fireplaces_03-04/111.jpg" height="66"></a> <a id="112" href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#112"><img src="https://ewwgene.github.io/Fireplaces_03-04/112.jpg" height="66"></a> <a id="113" href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#113"><img src="https://ewwgene.github.io/Fireplaces_03-04/113.jpg" height="66"></a> <a id="text">&#160;</a>
+[![Fireplaces_03-04](/100.jpg)](https://ewwgene.github.io/Fireplaces_03-04/Carousel)<br> <a id="100" href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#100"><img src="https://ewwgene.github.io/Fireplaces_03-04/100.jpg" height="66"></a> <a id="105" href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#105"><img src="https://ewwgene.github.io/Fireplaces_03-04/105.jpg" height="66"></a> <a id="111" href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#111"><img src="https://ewwgene.github.io/Fireplaces_03-04/111.jpg" height="66"></a> <a id="112" href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#112"><img src="https://ewwgene.github.io/Fireplaces_03-04/112.jpg" height="66"></a> <a id="113" href="https://ewwgene.github.io/Fireplaces_03-04/Carousel/#113"><img src="https://ewwgene.github.io/Fireplaces_03-04/113.jpg" height="66"></a> <a id="text">&#160;</a>
 
 _`SOLID_PINE_WOOD`_ _`WAX`_ 
 
